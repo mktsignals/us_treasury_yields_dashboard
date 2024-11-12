@@ -1,0 +1,24 @@
+# Core libraries
+streamlit>=1.31.0
+pandas>=2.2.0
+
+# Data visualization
+plotly>=5.18.0
+
+# HTTP requests and utilities
+requests>=2.31.0
+urllib3>=2.2.0
+
+# Date handling
+python-dateutil>=2.8.2
+
+# Logging and error handling
+logging>=0.5.1.2
+
+# Type hints support
+typing>=3.7.4.3
+
+# Optional: Development tools
+# pytest>=7.4.0  # For testing
+# black>=23.3.0  # For code formatting
+# flake8>=6.0.0  # For linting
